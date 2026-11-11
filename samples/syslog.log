@@ -1,0 +1,5 @@
+Nov 11 20:00:00 lab systemd[1]: Started OpenBSD Secure Shell server.
+Nov 11 20:03:12 lab kernel: WARNING: disk /dev/sda1 usage above 80 percent
+Nov 11 20:06:40 lab app[2210]: ERROR: database connection timeout
+Nov 11 20:07:01 lab app[2210]: ERROR: database connection timeout
+Nov 11 20:08:15 lab monitor[3001]: CRITICAL: multiple failed authentication bursts from 203.0.113.50
